@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @off77th
 - 👀 I’m interested in studying and improving myself skills
-- 🌱 I’m currently learning
-- DevOps Practice
-- 💞️ I’m looking to collaborate on ...
+- DevOps/SRE
 - 📫 How to reach me 
 Email:14oleg1414@gmail.com
 
