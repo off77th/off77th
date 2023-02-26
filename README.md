@@ -11,7 +11,7 @@ DevOps & Platform engineer
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [o.sedashev@gmail.com](mailto:o.sedashev@gmail.com)
-* 🧠  I'm learning DevOps practices, and tools
+* 🧠  I'm learning DevOps practices and tools
 * 🤝  I'm open to collaborating on pet-projects, startups
 
 ### Socials
