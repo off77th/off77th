@@ -13,7 +13,3 @@ DevOps & Platform engineer
 * ✉️  You can contact me at [o.sedashev@gmail.com](mailto:o.sedashev@gmail.com)
 * 🧠  I'm learning DevOps practices and tools
 * 🤝  I'm open to collaborating on pet-projects or startups
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/off77th" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/oleh-siedashev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/off77th" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
