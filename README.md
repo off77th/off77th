@@ -3,11 +3,5 @@ off77th/off77th is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-Hi 👋 My name is Oleh Siedashev
-==============================
-
-DevOps & Platform engineer
+Hello World!
 --------------------------
-
-* 🌍  I'm from Ukraine
-* 🧠  I'm learning DevOps practices and tools
