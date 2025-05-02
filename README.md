@@ -3,8 +3,7 @@
 ## 🚀 About Me
 🔹 **Systems Engineer** with expertise in **Azure and GCP Clouds**  
 🔹 Passionate about **Clouds, Automation, and CI/CD**  
-🔹 Experienced in **Infrastructure as Code (IaC), Kubernetes, and DevOps best practices**  
-🔹 Love sharing knowledge through **mentoring, blogging, and tech talks**  
+🔹 Experienced in **Infrastructure as Code (IaC), Kubernetes, and DevOps best practices**
 
 ---
 
