@@ -1,13 +1,13 @@
 <h1 align="center">Hi!</h1>
 
-## 🚀 About Me
-🔹 **Systems Engineer** with expertise in **Azure and GCP Clouds**  
-🔹 Passionate about **Clouds, Automation, and CI/CD**  
-🔹 Experienced in **Infrastructure as Code (IaC), Kubernetes, and DevOps best practices**
+## About Me
+🔹 **IT Systems Engineer** with expertise in building Cloud (Azure, GCP) and on-premises infrastructure solutions.
+🔹 Passionate about **Clouds, Automation, and CI/CD solutions**.
+🔹 Experienced in **Infrastructure as Code (IaC), Kubernetes, and DevOps best practices**.
 
 ---
 
-## 🛠 **Tech Stack**
+## **Tech Stack**
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-ffffff?style=for-the-badge&logo=google-cloud&logoColor=grey)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
@@ -22,12 +22,12 @@
 
 ---
 
-## 📂 **Projects & Contributions**
+## **Projects & Contributions**
 🔹 **Personal Blog:** [off77th](https://off77th.github.io/)  
 🔹 **GitHub Repos:** Check my projects below!  
 
 ---
 
-## 📫 **Let's Connect!**
+## 📫 **Contacts**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oleh%20Siedashev-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oleh-siedashev/)  
 ---
