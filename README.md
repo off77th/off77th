@@ -1,9 +1,9 @@
 <h1 align="center">Hi!</h1>
 
 ## About Me
-🔹 **IT Systems Engineer** with expertise in building Cloud (Azure, GCP) and on-premises infrastructure solutions.
-🔹 Passionate about **Clouds, Automation, and CI/CD solutions**.
-🔹 Experienced in **Infrastructure as Code (IaC), Kubernetes, and DevOps best practices**.
+🔹 **IT Systems Engineer** with expertise in building Cloud (Azure, GCP) and on-premises infrastructure solutions.  
+🔹 Passionate about **Clouds, Automation, and CI/CD solutions**.  
+🔹 Experienced in **Infrastructure as Code (IaC), Kubernetes, and DevOps best practices**.  
 
 ---
 
